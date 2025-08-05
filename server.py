@@ -12,7 +12,7 @@ Citations:
 import time
 
 # import field
-import zmq
+import zmq # need dependency for this
 import json
 
 # credit: https://zeromq.org/get-started/?language=python&library=pyzmq#
